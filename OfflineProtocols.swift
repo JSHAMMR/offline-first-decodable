@@ -1,9 +1,7 @@
 //
 //  OfflineProtocols.swift
-//  AgencyApp
 //
 //  Created by Gamil Ali Qaid Shamar on 01/12/2019.
-//  Copyright © 2019 Xchanging Malaysia. All rights reserved.
 //
 
 import Foundation
